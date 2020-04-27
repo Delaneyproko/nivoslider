@@ -50,6 +50,7 @@ header {
 	vertical-align: middle;
 }
 header img {
+	text-align: center;
 	padding-right: 1em;
 	float: left;
 }
